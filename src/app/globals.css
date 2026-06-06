@@ -1,0 +1,93 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+body {
+  background-color: #fff;
+  color: #333;
+  font-family: var(--font-sans);
+  overflow-x: clip;
+}
+
+.text-gradient {
+  background: linear-gradient(135deg, #082851, #125ab7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.btn-primary {
+  color: #fff;
+  background: linear-gradient(135deg, #082851, #125ab7);
+  border: none;
+  border-radius: 999px;
+  padding: 0.6rem 1.5rem;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.08);
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, #061c3a, #0d438a);
+  transform: translateY(-1px);
+  box-shadow: 0 6px 14px rgba(18, 90, 183, 0.3);
+}
+
+.btn-secondary {
+  color: #111827;
+  background-color: #e5e7eb;
+  border: none;
+  border-radius: 999px;
+  padding: 0.6rem 1.5rem;
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.2s;
+  cursor: pointer;
+}
+
+.btn-secondary:hover {
+  background-color: #d1d5db;
+}
+
+.nav-link {
+  color: #333;
+  font-size: 15px;
+  font-weight: 600;
+  transition: color 0.2s;
+}
+
+.nav-link:hover {
+  background: linear-gradient(135deg, #082851, #125ab7);
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.hero-glass-card {
+  background: linear-gradient(135deg, rgba(255,255,255,0.7) 0%, rgba(255,255,255,0.4) 100%);
+  border: 1px solid rgba(255,255,255,0.5);
+  border-radius: 16px;
+  padding: 24px;
+  backdrop-filter: blur(20px);
+  box-shadow: 0 8px 32px rgba(8, 40, 81, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hero-glass-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(8, 40, 81, 0.15);
+  border-color: rgba(255,255,255,0.8);
+}
+
+.navbar-pill {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(20px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}

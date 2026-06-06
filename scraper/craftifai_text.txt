@@ -1,0 +1,273 @@
+Products
+Blogs
+Company
+Book A Demo
+Try Orbit
+Products
+PipeGen
+FirmGen
+AgentIQ
+Blogs
+Company
+Investors
+Press
+Careers
+Contact Us
+Book A Demo
+Try Orbit
+Crafting the Physical World with
+Agentic AI Platform
+From Intent to Embedded Intelligence
+Agentic platform that builds & deploys :
+Edge AI pipelines
+Embedded firmware
+FPGA designs
+5× faster
+Time to market
+70%
+Overall cost reduction
+No code platform
+Plain prompt to deployed system
+Production grade
+Code quality
+Book A Demo
+OUR PRODUCTS
+CraftifAI Orbit Suite
+
+Three products for your physical devices
+
+01
+PipeGen
+EDGE AI PIPELINES
+
+An agentic AI workflow that generates and deploys hardware-optimized perception pipelines for Edge Devices.
+
+02
+FirmGen
+EMBEDDED FIRMWARE
+
+An agentic AI workflow that generates hardware-optimized firmware for microcontrollers and IoT devices.
+
+03
+AgentIQ
+FPGA DESIGNS & BITSTREAMS
+
+An agentic AI workflow that generates and deploys hardware-optimized FPGA designs and deployment ready bitstreams.
+
+CUSTOMER IMPACT
+
+How engineering teams ship with
+CraftifAI Orbit
+
+See how teams are unlocking system efficiency across complex hardware workflows.
+
+INDUSTRIAL ROBOTICS
+PIPEGEN
+
+5× faster pick-and-place
+
+PROTOTYPE TO PRODUCTION
+
+98%+ object handling accuracy on autonomous pick-and-place robots, running live on NVIDIA Jetson AGX Orin.
+
+DETAILS
+IOT WEARABLE DEVICE
+FIRMGEN
+
+4× faster firmware deployment
+
+MANUAL BUILDS TO AUTOMATED FIRMWARE GENERATION
+
+Real-time livestock health monitoring across remote farms, production-ready firmware delivered.
+
+DETAILS
+DATACENTER & CLOUD AI INFRASTRUCTURE
+PIPEGEN + FIRMGEN
+
+4× faster codebase modernization
+
+MANUAL, FRAGMENTED DEVELOPMENT TO AI-DRIVEN WORKFLOWS
+
+Legacy codebase modernization and edge AI workload optimization, automated end to end.
+
+DETAILS
+MANUFACTURING LINE INSPECTION
+PIPEGEN
+
+99%+ defect identification
+
+MANUAL INSPECTION TO AUTOMATION
+
+10 inspection checkpoints automated across full device assembly lines, in real time.
+
+DETAILS
+ELECTRONICS MANUFACTURING SERVICES
+FIRMGEN
+
+3× faster product innovation
+
+FRAGMENTED BUILDS TO UNIFIED CODEBASE
+
+10+ IoT device variants managed from one codebase, with 40% fewer post-deployment bugs.
+
+DETAILS
+PREDICTIVE MAINTENANCE INDUSTRIAL IOT
+PIPEGEN + FIRMGEN
+
+4× reduction in unplanned downtime
+
+REACTIVE MAINTENANCE TO AI-DRIVEN PREDICTIVE MAINTENANCE
+
+Real-time machine health monitoring across legacy automotive manufacturing lines.
+
+DETAILS
+RETAIL SURVEILLANCE
+PIPEGEN
+
+95% cloud costs eliminated
+
+CLOUD INFERENCE TO FULL EDGE DEPLOYMENT
+
+700+ retail stores running real-time edge AI with zero cloud dependency.
+
+DETAILS
+01 / 07
+
+INVESTORS
+
+Backed by conviction
+
+We're backed by institutional investors who share our vision of AI-powered infrastructure for the physical world.
+
+OUR INVESTORS
+
+RECOGNIZED BY
+
+PRESS & MEDIA
+
+CraftifAI in the news
+
+The latest coverage, announcements, and industry commentary from the teams following the Physical AI revolution.
+
+AS COVERED BY
+
+Inc42
+Economic Times
+ET B2B
+Entrackr
+AI Techsales
+Ankur Capital
+DD News
+Bosch
+IESA
+LinkedIn
+NewsX
+NVIDIA
+Indian Startup News
+BW Disrupt
+IT Voice
+Indian Startup Times
+CXO Digital Pulse
+MPSeDC
+FUNDING
+Economic Times
+Feb 17, 2026
+CraftifAI Raises $3 Million in Seed Funding Led by Ankur Capital
+
+The Bengaluru-based startup building AI-powered tools for embedded systems development has closed its seed round to fuel product expansion and team growth.
+
+Read article
+→
+AI Techsales
+Recent
+FEATURE
+The Intelligent Edge Bottleneck: A Watchtower Blog Series
+
+AI Techsales' three-part Watchtower series examines the shift from code-first embedded development to prompt-to-production systems — featuring CraftifAI as an early example of intent-driven orchestration for firmware.
+
+Read article →
+Ankur Capital
+Feb 17, 2026
+FUNDING
+Why we backed CraftifAI
+
+Ankur Capital announces leading the seed round in CraftifAI — a Bengaluru-based startup turning embedded software development into a prompt-driven workflow.
+
+Read article →
+NVIDIA
+Feb 21, 2026
+INDUSTRY
+CraftifAI joins the NVIDIA Inception Program
+
+CraftifAI has been officially selected for the NVIDIA Inception Program — NVIDIA's global initiative supporting startups advancing AI and Deeptech. The recognition accelerates CraftifAI's roadmap for the Orbit platform and its suite of domain-specialized SLMs powering robotics, drones, ADAS, industrial automation, vision intelligence, and IoT systems.
+
+Read article →
+CraftifAI
+Feb 05, 2026
+FEATURE
+Ujjain Mahakumbh Hackathon Bangalore
+
+CraftifAI participates in the Ujjain Mahakumbh Hackathon with Crafteye, driving innovation in edge computing and video analytics.
+
+Read article →
+Visit our newsroom
+→
+
+GET STARTED TODAY
+
+Ready to build embedded software in hours?
+
+Join enterprises and developers building production grade intelligent products with just an intent and CraftifAI Orbit
+
+Book A Demo
+Try CraftifAI Orbit
+
+No credit card required  ·  Free to explore
+
+CRAFTIFAI
+
+PRODUCTS
+
+PipeGen
+FirmGen
+AgentIQ
+
+COMPANY
+
+About
+Careers
+Press
+Investors
+
+RESOURCES
+
+Blog
+Contact
+
+LEGAL
+
+Privacy policy
+Terms & Conditions
+
+Crafting the Physical World with Agentic AI Platform
+
+INDIA OFFICE
+
+CraftifAI
+Floor F1, Building #H206, Hustlehub Tech Park,
+27th Main Rd, Sector 2, HSR Layout,
+Bengaluru, Karnataka 560102
+
+US OFFICE
+
+CraftifAI
+100 S Murphy Street, Suite 200,
+Sunnyvale, CA
+
+CONTACT INFO
+
+hello@craftifai.com
++91 84314 04417 (IN)
++1 669 288 0885 (US)
+
+© 2026 CraftifAI, Inc. All rights reserved.
